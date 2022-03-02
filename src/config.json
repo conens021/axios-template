@@ -1,0 +1,6 @@
+{
+    "ENV" : "LOCAL",
+    "API_URL" : {
+        "LOCAL" : "https://jsonplaceholder.typicode.com/posts"
+    } 
+}
